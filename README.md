@@ -24,6 +24,8 @@ All code is written in Matlab 2018b.
 
 Add the entire ‘CODE’ folder (including subfolder to the matlab path) in the ‘Lohse_et_al_2020_Code’ folder
 
+Download data from https://www.dropbox.com/sh/h4fgl583ecz9mh9/AACX_QAD8vrCIk5b9DFPDjwma?dl=0
+
 # RUNNING THE CODE
 
 The code repository is divided in to three main folder: 
