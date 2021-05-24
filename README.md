@@ -20,7 +20,7 @@ The code reproduces panels related to this dataset in these figures, to show how
 
 # REQUIREMENTS FOR RUNNING CODE
 
-The easiest way to use the code is simply to download the entire dropbox folder 'Lohse_et_al_2021_CodeandData' which contains the code and data: https://www.dropbox.com/sh/h4fgl583ecz9mh9/AACX_QAD8vrCIk5b9DFPDjwma?dl=0 and run the wrapperscripts.
+The easiest way to use the code is simply to download the entire dropbox folder 'Lohse_et_al_2021_CodeandData' which contains the code and data and run the wrapperscripts: https://www.dropbox.com/sh/h4fgl583ecz9mh9/AACX_QAD8vrCIk5b9DFPDjwma?dl=0.
 
 All code is written in Matlab 2018b.
 
