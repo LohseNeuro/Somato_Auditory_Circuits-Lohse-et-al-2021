@@ -20,11 +20,14 @@ The code reproduces panels related to this dataset in these figures, to show how
 
 # REQUIREMENTS FOR RUNNING CODE
 
+The easiest way to use the code is simply to download the entire dropbox folder 'Lohse_et_al_2021_CodeandData' which contains the code and data: https://www.dropbox.com/sh/h4fgl583ecz9mh9/AACX_QAD8vrCIk5b9DFPDjwma?dl=0 and run the wrapperscripts.
+
 All code is written in Matlab 2018b.
 
-Add the entire ‘CODE’ folder (including subfolder to the matlab path) in the ‘Lohse_et_al_2020_Code’ folder
+Add the entire ‘CODE’ folder (including subfolder to the matlab path) in the ‘Lohse_et_al_2021_Code’ folder
 
-Download data from https://www.dropbox.com/sh/h4fgl583ecz9mh9/AACX_QAD8vrCIk5b9DFPDjwma?dl=0
+If the code is pulled from this github repository, then download data separately from: https://www.dropbox.com/sh/77lf7rma17btc2u/AADTz-j9Axy4gJc8cKhcDfH4a?dl=0
+
 
 # RUNNING THE CODE
 
