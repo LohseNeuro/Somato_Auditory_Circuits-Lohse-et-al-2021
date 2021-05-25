@@ -32,7 +32,9 @@ All code is written in Matlab 2018b.
 The code repository is divided into three main folders:
 
 Anes_MGBNoise - For assessing whisker stimulation effects on responses of auditory neurons to broadband noise
+
 Anes_MGBTones - For assessing whisker stimulation effects on tone/tuning responses
+
 SupportCode - For extra scripts helping with basic plotting and processing
 
 In the Anes_MGBNoise folder:
